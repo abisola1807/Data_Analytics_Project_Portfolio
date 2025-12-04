@@ -1,0 +1,5 @@
+This project focuses on addressing operational inefficiencies in order fulfillment by leveraging data analytics and interactive dashboards in Microsoft Excel. Using real-world order data, the project identifies backlog accumulation, delivery delays, and inefficiencies across drivers, routes, and allocation rules. By combining PivotTables, slicers, and KPI cards, the dashboard provides stakeholders with real-time visibility into order status, customer feedback, and performance metrics.
+
+Key insights revealed that over half of orders were backlogged, certain drivers and routes consistently underperformed, and expedited allocation rules were less effective than expected. Customer feedback also highlighted that service quality factors, in addition to delivery speed, influenced satisfaction levels.
+
+To address these issues, the project recommends resource reallocation, targeted driver training, route optimization, and redesigning allocation rules. By transforming raw operational data into actionable insights, the Excel dashboard enables organizations to reduce backlogs, improve delivery reliability, and enhance customer experience in a cost-effective manner.
