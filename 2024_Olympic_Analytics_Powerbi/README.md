@@ -1,9 +1,0 @@
-Built an interactive Power BI dashboard analysing performance at the Paris 2024 Olympics across medals, athletes and events.
-
-Ingested medals_total.csv, athletes.csv and events.csv, cleaned in Power Query and modelled into a star schema for high‑performance slicing by NOC, sport and gender. 
-
-Authored DAX KPIs (Total/Gold/Silver/Bronze, Gold Conversion %, Medals per Athlete, Medals per Event) with drill‑through to athlete and event detail. 
-
-Key findings: United States (USA) led with 126 medals and a 31.7% gold share; female participation reached 50%; Athletics accounted for ≈14.6% of medal events.
-
-Delivered recommendations on high‑yield sports and emerging NOCs.
